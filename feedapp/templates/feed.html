@@ -108,7 +108,7 @@
 									<article class="style1">
 										<span class="image">
 											<h2 style="margin: 0 0 1em 0; text-align: center;">{{ odata.image_date.year }}.{{ odata.image_date.month }}</h2>
-											<img src ="{{ odata.image_file.url }}" />
+											<img class="photo" src ="{{ odata.image_file.url }}" />
 										</span>
 										<a href='{% url "photo" %}{{forloop.counter0}}/?city={{ odata.city_id_id }}&sort={{sort}}&data=today'>
 											<div class="content">
@@ -134,7 +134,7 @@
 									<article class="style1">
 										<span class="image">
 											<h2 style="margin: 0 0 1em 0; text-align: center;">{{ adata.image_date.year }}.{{ adata.image_date.month }}</h2>
-											<img src ="{{ adata.image_file.url }}" />
+											<img class="photo" src ="{{ adata.image_file.url }}" />
 										</span>
 										<a href='{% url "photo" %}{{forloop.counter0}}/?city={{ adata.city_id_id }}&sort={{sort}}&data={{data}}'>
 											<div class="content">
@@ -193,8 +193,8 @@
 					getWeather(lat, lng);
 
 					// 이미지 크기 조정
-					var cw = $('.image').width();
-					$('.image').css({'height':cw*1.2+'px'});
+					var cw = $('.photo').width();
+					$('.photo').css({'height':cw*1.2+'px'});
 				})
 
 				function showAllFeed(){
