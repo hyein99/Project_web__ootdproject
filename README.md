@@ -30,7 +30,7 @@
 
 #### 1) 메인 페이지
 
-![슬라이드8](.\portfolio_images\슬라이드8.JPG)
+![슬라이드8](./portfolio_images/슬라이드8.JPG)
 
 
 
