@@ -34,33 +34,33 @@
 
 
 
-![슬라이드9](\portfolio_images\슬라이드9.JPG)
+![슬라이드9](./portfolio_images/슬라이드9.JPG)
 
 <br>
 
 #### 2) 피드 페이지
 
-![슬라이드11](portfolio_images\슬라이드11.JPG)
+![슬라이드11](./portfolio_images/슬라이드11.JPG)
 
 
 
-![슬라이드12](portfolio_images\슬라이드12.JPG)
+![슬라이드12](./portfolio_images/슬라이드12.JPG)
 
 <br>
 
 #### 3) 포토 페이지
 
-![슬라이드13](portfolio_images\슬라이드13.JPG)
+![슬라이드13](./portfolio_images/슬라이드13.JPG)
 
-![슬라이드14](portfolio_images\슬라이드14.JPG)
+![슬라이드14](./portfolio_images/슬라이드14.JPG)
 
 <br>
 
 #### 4) 업로드 페이지
 
-![슬라이드15](portfolio_images\슬라이드15.JPG)
+![슬라이드15](./portfolio_images/슬라이드15.JPG)
 
-![슬라이드16](portfolio_images\슬라이드16.JPG)
+![슬라이드16](./portfolio_images/슬라이드16.JPG)
 
 
 
