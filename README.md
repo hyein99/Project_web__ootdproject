@@ -1,5 +1,5 @@
 # Project_web__ootdproject
-* web site: https://ootdproject.herokuapp.com/
+* web site: https://ootdproject.herokuapp.com/main/
 * presentation: https://www2.slideshare.net/HyeinGu/ootd-projectweb
 <br>
 
